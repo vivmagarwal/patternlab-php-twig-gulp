@@ -1,3 +1,5 @@
+chmod -R 777 .
+
 composer install
 
 npm install gulp
