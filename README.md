@@ -1,7 +1,7 @@
 # Patternlab php+twig with gulp task set up to watch and compile SCSS to CSS
 
-##Steps:
-####Installation:
+## Steps:
+#### Installation:
 `npm install gulp`
 `npm install gulp-sass`
 `gulp-sass-glob`

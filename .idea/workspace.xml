@@ -52,7 +52,7 @@
         <counts>
           <entry key="css" value="29" />
           <entry key="js" value="121" />
-          <entry key="md" value="385" />
+          <entry key="md" value="387" />
           <entry key="scss" value="309" />
         </counts>
       </usages-collector>
@@ -60,7 +60,7 @@
         <counts>
           <entry key="CSS" value="29" />
           <entry key="JavaScript" value="121" />
-          <entry key="Markdown" value="385" />
+          <entry key="Markdown" value="387" />
           <entry key="SCSS" value="309" />
         </counts>
       </usages-collector>
@@ -105,8 +105,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="76" selection-start-column="76" selection-end-column="76" />
+              <first_editor relative-caret-position="57">
+                <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -291,12 +291,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542977014129</updated>
-      <workItem from="1542977015354" duration="11999000" />
+      <workItem from="1542977015354" duration="12245000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11999000" />
+    <option name="totallyTimeSpent" value="12245000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -600,8 +600,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="76" selection-start-column="76" selection-end-column="76" />
+          <first_editor relative-caret-position="57">
+            <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
           </first_editor>
           <second_editor />
         </state>
