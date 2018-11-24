@@ -1,0 +1,69 @@
+/* Text-Related Elements */ 
+p {
+  font-size: 15px;
+	margin-bottom: $space;
+}
+
+/* Blockquote */
+blockquote {
+    font-style:italic;
+    border-left: 1px solid $gray;
+    color: $gray;
+	padding-left: $pad;
+	margin-bottom: $space;
+}
+
+/* Horizontal Rule */ 
+hr {
+	border: 0;
+    height: 2px;
+    background: $gray-light-2;
+    margin: $space-double 0;
+}
+
+abbr {
+    border-bottom: 1px dotted $gray;
+    cursor: help;
+}
+
+//Intro text
+.intro {
+  font-size: $font-size-med-2;
+  font-weight: bold;
+}
+
+//Pullquote
+.pullquote {
+  font-family: $font-secondary;
+  font-size: $font-size-large;
+}
+
+//Caption
+.caption {
+  font-style: italic;
+}
+
+//Passages of text
+.text {
+  a {
+    text-decoration: underline;
+  }
+
+  ul {
+    list-style: disc;
+    margin: 0 0 $space 1.2em;
+
+    ul {
+      margin-bottom: 0;
+    }
+  }
+
+  ol {
+    list-style: decimal;
+    margin: 0 0 $space 1.5em;
+
+    ol {
+      margin-bottom: 0;
+    }
+  }
+}

@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+#change relative paths in config/config.yml
+
 chmod -R 777 .
 
 composer install
