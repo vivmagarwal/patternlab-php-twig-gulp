@@ -29,7 +29,7 @@
           <entry key="js" value="3" />
           <entry key="json" value="11" />
           <entry key="md" value="4" />
-          <entry key="scss" value="60" />
+          <entry key="scss" value="61" />
           <entry key="twig" value="34" />
           <entry key="woff" value="1" />
           <entry key="yml" value="4" />
@@ -43,7 +43,7 @@
           <entry key="JavaScript" value="3" />
           <entry key="Markdown" value="4" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="SCSS" value="60" />
+          <entry key="SCSS" value="61" />
           <entry key="Twig" value="34" />
           <entry key="YAML" value="4" />
         </counts>
@@ -52,7 +52,7 @@
         <counts>
           <entry key="css" value="29" />
           <entry key="js" value="121" />
-          <entry key="md" value="387" />
+          <entry key="md" value="1061" />
           <entry key="scss" value="309" />
         </counts>
       </usages-collector>
@@ -60,7 +60,7 @@
         <counts>
           <entry key="CSS" value="29" />
           <entry key="JavaScript" value="121" />
-          <entry key="Markdown" value="387" />
+          <entry key="Markdown" value="1061" />
           <entry key="SCSS" value="309" />
         </counts>
       </usages-collector>
@@ -105,10 +105,19 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="57">
-                <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+              <first_editor relative-caret-position="186">
+                <caret line="22" column="184" selection-start-line="22" selection-start-column="184" selection-end-line="22" selection-end-column="184" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/css/style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="411">
+              <caret line="74" column="50" selection-start-line="74" selection-start-column="50" selection-end-line="74" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -132,15 +141,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-117">
               <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_patterns/common-scss/generic/_variables.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -187,7 +187,6 @@
         <option value="$PROJECT_DIR$/gulp-tasks/_config.js" />
         <option value="$PROJECT_DIR$/source/_patterns/style.scss" />
         <option value="$PROJECT_DIR$/public/css/style.css" />
-        <option value="$PROJECT_DIR$/source/css/style.scss" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/source/_patterns/common-scss/text/_text.scss" />
         <option value="$PROJECT_DIR$/source/css/style.css" />
@@ -195,6 +194,7 @@
         <option value="$PROJECT_DIR$/source/_patterns/common-scss/generic/_variables.scss" />
         <option value="$PROJECT_DIR$/source/_patterns/common-scss/base/_headings.scss" />
         <option value="$PROJECT_DIR$/source/_patterns/00-atoms/01-global/00-colors.scss" />
+        <option value="$PROJECT_DIR$/source/css/style.scss" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -250,6 +250,42 @@
               <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
               <item name="cyprus" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="common-scss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="style.scss" type="620a8d5e:NestingTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -291,12 +327,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542977014129</updated>
-      <workItem from="1542977015354" duration="12245000" />
+      <workItem from="1542977015354" duration="12878000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12245000" />
+    <option name="totallyTimeSpent" value="12878000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -312,12 +348,12 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18093699" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18093699" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.29343066" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.29343066" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
@@ -518,13 +554,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/css/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2033">
-          <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_patterns/04-pages/00-homepage.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -597,11 +626,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="74" column="50" selection-start-line="74" selection-start-column="50" selection-end-line="74" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="57">
-            <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <first_editor relative-caret-position="186">
+            <caret line="22" column="184" selection-start-line="22" selection-start-column="184" selection-end-line="22" selection-end-column="184" />
           </first_editor>
           <second_editor />
         </state>

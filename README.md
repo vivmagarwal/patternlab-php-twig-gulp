@@ -1,4 +1,4 @@
-# Patternlab php+twig with gulp task set up to watch and compile SCSS to CSS
+# Patternlab PHP+Twig with Gulp task set up to watch and compile SCSS to CSS
 
 ## Steps:
 #### Installation:
@@ -8,12 +8,21 @@
 
 `composer install`
 
-####Execution:
+#### Execution:
 In first terminal tab: `gulp watch`
 In second terminal tab: `php core/console --watch`
 In third terminal tab: 
 `php core/console --generate`
 `php core/console --server`
+
+#### Notes :
+All the SCSS files inside `source/_patterns` is imported to `css/style.scss` file. Then our gulp watch (gulp-sass) task compiles it to `css/style.css`. Then patternlabs `php core/console --watch` copies it to `public/css`
+
+You dont need to manually import SCSS files inside atoms,molecules, organisms, templates and pages folder. all the scss files inside them will be included automatically.
+
+But files inside `common-scss/generic` and `common-scss/base` must be imported manually in `css/style.scss` because in case of these files the order in which file is imported matters!!
+
+ 
 
 
 ![license](https://img.shields.io/github/license/pattern-lab/edition-php-twig-standard.svg)
