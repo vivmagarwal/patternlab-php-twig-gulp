@@ -10,7 +10,11 @@ gulp.task('sass', function () {
   return gulp.src('source/css/style.scss')
   // .pipe(sourcemaps.init())
     .pipe(sassGlob())
-    .pipe(sass().on('error', sass.logError))
+    .pipe(sass())
+      .on('error', function (errorInfo) {
+        console.log(errorInfo.toString());
+        this.emit('end');
+      })
     // .pipe(sourcemaps.write())
     .pipe(gulp.dest('source/css'));
 });
