@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/drupalastic/patternlab-php-twig-gulp#readme",
   "dependencies": {
-    "gulp": "^3.9.1",
+    "@babel/core": "^7.1.6",
+    "gulp": "latest",
     "gulp-babel": "^8.0.0",
     "gulp-concat": "^2.6.1",
     "gulp-sass": "^4.0.2",
