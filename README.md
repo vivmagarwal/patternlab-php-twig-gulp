@@ -2,10 +2,7 @@
 
 ## Steps:
 #### Installation:
-`npm install gulp`
-`npm install gulp-sass`
-`gulp-sass-glob`
-
+`npm install`
 `composer install`
 
 #### Execution:
@@ -13,13 +10,25 @@ In first terminal tab: `gulp watch`
 In second terminal tab: `php core/console --server --with-watch`
 
 #### Notes :
+
+This setup is designed to keep all related files of a component together
+
+Example:
+
+--_patterns
+  |--01-molecules
+     |--primary-nav.twig
+     |--primary-nav.scss
+     |--primary-nav.js
+     |--primary-nav.json
+ 
 All the SCSS files inside `source/_patterns` is imported to `css/style.scss` file. Then our gulp watch (gulp-sass) task compiles it to `css/style.css`. Then patternlabs `php core/console --watch` copies it to `public/css`
 
 You dont need to manually import SCSS files inside atoms,molecules, organisms, templates and pages folder. all the scss files inside them will be included automatically.
 
 But files inside `common-scss/generic` and `common-scss/base` must be imported manually in `css/style.scss` because in case of these files the order in which file is imported matters!!
 
- 
+All JS files inside `source/_patterns` are concatinated and imported to `js/scripts.js` file. Patternlab takes care of the rest. 
 
 
 ![license](https://img.shields.io/github/license/pattern-lab/edition-php-twig-standard.svg)

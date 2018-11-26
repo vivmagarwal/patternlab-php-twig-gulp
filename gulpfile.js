@@ -1,7 +1,5 @@
 var gulp = require('gulp');
 var sass = require('gulp-sass');
-// var autoprefixer = require('gulp-autoprefixer');
-// var clean = require('gulp-clean');
 var sassGlob = require('gulp-sass-glob');
 var babel = require('gulp-babel');
 var sourcemaps = require('gulp-sourcemaps');
@@ -19,18 +17,6 @@ gulp.task('sass', function () {
     // .pipe(sourcemaps.write())
     .pipe(gulp.dest('source/css'));
 });
-
-// gulp.task('clean', function () {
-//   return gulp.src('tmp/css/**', {read: false})
-//     .pipe(clean());
-// });
-
-
-// gulp.task('styles', function() {
-//   return gulp.src('tmp/css/**/*.css')
-//       .pipe(concat('style.css'))
-//       .pipe(gulp.dest('dist/css'));
-// });
 
 gulp.task('scripts', function() {
   return gulp.src('source/_patterns/**/*.js')

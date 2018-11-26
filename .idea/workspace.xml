@@ -2,13 +2,131 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ae4d6cd-b1ad-4d3f-9f82-19353d7f211a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/source/_meta/_01-foot.twig" beforeDir="false" afterPath="$PROJECT_DIR$/source/_meta/_01-foot.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper-settings.js" beforeDir="false" afterPath="$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper-settings.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper.js" beforeDir="false" afterPath="$PROJECT_DIR$/source/js/swiper.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper.twig" beforeDir="false" afterPath="$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_patterns/common-js/JQuery/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/source/js/jquery-3.3.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/js/scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/js/scripts.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/latest-change.txt" beforeDir="false" afterPath="$PROJECT_DIR$/public/latest-change.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-01-global-00-colors/00-atoms-01-global-00-colors.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-01-global-00-colors/00-atoms-01-global-00-colors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-01-global-01-fonts/00-atoms-01-global-01-fonts.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-01-global-01-fonts/00-atoms-01-global-01-fonts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-01-global-02-animations/00-atoms-01-global-02-animations.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-01-global-02-animations/00-atoms-01-global-02-animations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-01-global-03-visibility/00-atoms-01-global-03-visibility.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-01-global-03-visibility/00-atoms-01-global-03-visibility.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-01-global/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-01-global/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-02-text-00-headings/00-atoms-02-text-00-headings.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-02-text-00-headings/00-atoms-02-text-00-headings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-02-text-01-paragraph/00-atoms-02-text-01-paragraph.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-02-text-01-paragraph/00-atoms-02-text-01-paragraph.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-02-text-02-blockquote/00-atoms-02-text-02-blockquote.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-02-text-02-blockquote/00-atoms-02-text-02-blockquote.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-02-text-03-inline-elements/00-atoms-02-text-03-inline-elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-02-text-03-inline-elements/00-atoms-02-text-03-inline-elements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-02-text-04-time/00-atoms-02-text-04-time.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-02-text-04-time/00-atoms-02-text-04-time.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-02-text-05-preformatted-text/00-atoms-02-text-05-preformatted-text.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-02-text-05-preformatted-text/00-atoms-02-text-05-preformatted-text.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-02-text-06-hr/00-atoms-02-text-06-hr.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-02-text-06-hr/00-atoms-02-text-06-hr.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-02-text/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-02-text/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-03-lists-00-unordered/00-atoms-03-lists-00-unordered.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-03-lists-00-unordered/00-atoms-03-lists-00-unordered.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-03-lists-01-ordered/00-atoms-03-lists-01-ordered.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-03-lists-01-ordered/00-atoms-03-lists-01-ordered.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-03-lists-02-definition/00-atoms-03-lists-02-definition.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-03-lists-02-definition/00-atoms-03-lists-02-definition.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-03-lists/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-03-lists/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-04-images-00-logo/00-atoms-04-images-00-logo.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-04-images-00-logo/00-atoms-04-images-00-logo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-04-images-01-landscape-4x3/00-atoms-04-images-01-landscape-4x3.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-04-images-01-landscape-4x3/00-atoms-04-images-01-landscape-4x3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-04-images-02-landscape-16x9/00-atoms-04-images-02-landscape-16x9.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-04-images-02-landscape-16x9/00-atoms-04-images-02-landscape-16x9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-04-images-03-square/00-atoms-04-images-03-square.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-04-images-03-square/00-atoms-04-images-03-square.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-04-images-04-avatar/00-atoms-04-images-04-avatar.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-04-images-04-avatar/00-atoms-04-images-04-avatar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-04-images-05-icons/00-atoms-04-images-05-icons.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-04-images-05-icons/00-atoms-04-images-05-icons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-04-images-06-loading-icon/00-atoms-04-images-06-loading-icon.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-04-images-06-loading-icon/00-atoms-04-images-06-loading-icon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-04-images-07-favicon/00-atoms-04-images-07-favicon.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-04-images-07-favicon/00-atoms-04-images-07-favicon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-04-images-08-social-tags/00-atoms-04-images-08-social-tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-04-images-08-social-tags/00-atoms-04-images-08-social-tags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-04-images-09-static-gallery-image-item/00-atoms-04-images-09-static-gallery-image-item.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-04-images-09-static-gallery-image-item/00-atoms-04-images-09-static-gallery-image-item.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-04-images/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-04-images/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-05-forms-00-text-fields/00-atoms-05-forms-00-text-fields.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-05-forms-00-text-fields/00-atoms-05-forms-00-text-fields.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-05-forms-01-select-menu/00-atoms-05-forms-01-select-menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-05-forms-01-select-menu/00-atoms-05-forms-01-select-menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-05-forms-02-checkbox/00-atoms-05-forms-02-checkbox.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-05-forms-02-checkbox/00-atoms-05-forms-02-checkbox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-05-forms-03-radio-buttons/00-atoms-05-forms-03-radio-buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-05-forms-03-radio-buttons/00-atoms-05-forms-03-radio-buttons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-05-forms-04-html5-inputs/00-atoms-05-forms-04-html5-inputs.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-05-forms-04-html5-inputs/00-atoms-05-forms-04-html5-inputs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-05-forms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-05-forms/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-06-buttons-00-buttons/00-atoms-06-buttons-00-buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-06-buttons-00-buttons/00-atoms-06-buttons-00-buttons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-06-buttons/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-06-buttons/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-07-tables-00-table/00-atoms-07-tables-00-table.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-07-tables-00-table/00-atoms-07-tables-00-table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-07-tables/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-07-tables/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-08-media/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-08-media/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-09-toggle-toggle/00-atoms-09-toggle-toggle.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-09-toggle-toggle/00-atoms-09-toggle-toggle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms-09-toggle/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms-09-toggle/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/00-atoms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/00-atoms/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-00-text-00-byline/01-molecules-00-text-00-byline.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-00-text-00-byline/01-molecules-00-text-00-byline.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-00-text-01-address/01-molecules-00-text-01-address.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-00-text-01-address/01-molecules-00-text-01-address.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-00-text-02-heading-group/01-molecules-00-text-02-heading-group.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-00-text-02-heading-group/01-molecules-00-text-02-heading-group.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-00-text-03-blockquote-with-citation/01-molecules-00-text-03-blockquote-with-citation.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-00-text-03-blockquote-with-citation/01-molecules-00-text-03-blockquote-with-citation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-00-text-04-intro-text/01-molecules-00-text-04-intro-text.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-00-text-04-intro-text/01-molecules-00-text-04-intro-text.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-00-text/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-00-text/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-01-layout-00-one-up/01-molecules-01-layout-00-one-up.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-01-layout-00-one-up/01-molecules-01-layout-00-one-up.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-01-layout-01-two-up/01-molecules-01-layout-01-two-up.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-01-layout-01-two-up/01-molecules-01-layout-01-two-up.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-01-layout-02-three-up/01-molecules-01-layout-02-three-up.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-01-layout-02-three-up/01-molecules-01-layout-02-three-up.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-01-layout-03-four-up/01-molecules-01-layout-03-four-up.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-01-layout-03-four-up/01-molecules-01-layout-03-four-up.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-01-layout/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-01-layout/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-02-blocks-00-media-block/01-molecules-02-blocks-00-media-block.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-02-blocks-00-media-block/01-molecules-02-blocks-00-media-block.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-02-blocks-01-block-headline-byline/01-molecules-02-blocks-01-block-headline-byline.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-02-blocks-01-block-headline-byline/01-molecules-02-blocks-01-block-headline-byline.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-02-blocks-02-block-hero/01-molecules-02-blocks-02-block-hero.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-02-blocks-02-block-hero/01-molecules-02-blocks-02-block-hero.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-02-blocks-03-block-thumb-headline/01-molecules-02-blocks-03-block-thumb-headline.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-02-blocks-03-block-thumb-headline/01-molecules-02-blocks-03-block-thumb-headline.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-02-blocks-04-block-headline/01-molecules-02-blocks-04-block-headline.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-02-blocks-04-block-headline/01-molecules-02-blocks-04-block-headline.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-02-blocks-05-block-inset/01-molecules-02-blocks-05-block-inset.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-02-blocks-05-block-inset/01-molecules-02-blocks-05-block-inset.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-02-blocks/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-02-blocks/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-03-media-00-figure-with-caption/01-molecules-03-media-00-figure-with-caption.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-03-media-00-figure-with-caption/01-molecules-03-media-00-figure-with-caption.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-03-media/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-03-media/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-04-forms-00-search/01-molecules-04-forms-00-search.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-04-forms-00-search/01-molecules-04-forms-00-search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-04-forms-01-comment-form/01-molecules-04-forms-01-comment-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-04-forms-01-comment-form/01-molecules-04-forms-01-comment-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-04-forms-02-newsletter/01-molecules-04-forms-02-newsletter.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-04-forms-02-newsletter/01-molecules-04-forms-02-newsletter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-04-forms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-04-forms/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-05-navigation-00-primary-nav/01-molecules-05-navigation-00-primary-nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-05-navigation-00-primary-nav/01-molecules-05-navigation-00-primary-nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-05-navigation-01-footer-nav/01-molecules-05-navigation-01-footer-nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-05-navigation-01-footer-nav/01-molecules-05-navigation-01-footer-nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-05-navigation-02-breadcrumbs/01-molecules-05-navigation-02-breadcrumbs.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-05-navigation-02-breadcrumbs/01-molecules-05-navigation-02-breadcrumbs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-05-navigation-03-pagination/01-molecules-05-navigation-03-pagination.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-05-navigation-03-pagination/01-molecules-05-navigation-03-pagination.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-05-navigation-04-tabs/01-molecules-05-navigation-04-tabs.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-05-navigation-04-tabs/01-molecules-05-navigation-04-tabs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-05-navigation-05-lang-selector/01-molecules-05-navigation-05-lang-selector.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-05-navigation-05-lang-selector/01-molecules-05-navigation-05-lang-selector.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-05-navigation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-05-navigation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-06-components-00-social-share/01-molecules-06-components-00-social-share.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-06-components-00-social-share/01-molecules-06-components-00-social-share.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-06-components-01-accordion/01-molecules-06-components-01-accordion.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-06-components-01-accordion/01-molecules-06-components-01-accordion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-06-components-02-single-comment/01-molecules-06-components-02-single-comment.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-06-components-02-single-comment/01-molecules-06-components-02-single-comment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-06-components/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-06-components/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-07-messaging-00-alert/01-molecules-07-messaging-00-alert.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-07-messaging-00-alert/01-molecules-07-messaging-00-alert.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules-07-messaging/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules-07-messaging/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/01-molecules/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/01-molecules/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/02-organisms-00-global-00-header/02-organisms-00-global-00-header.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/02-organisms-00-global-00-header/02-organisms-00-global-00-header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/02-organisms-00-global-01-footer/02-organisms-00-global-01-footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/02-organisms-00-global-01-footer/02-organisms-00-global-01-footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/02-organisms-00-global/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/02-organisms-00-global/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/02-organisms-01-article-00-article-body/02-organisms-01-article-00-article-body.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/02-organisms-01-article-00-article-body/02-organisms-01-article-00-article-body.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/02-organisms-01-article/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/02-organisms-01-article/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/02-organisms-02-comments-00-comment-thread/02-organisms-02-comments-00-comment-thread.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/02-organisms-02-comments-00-comment-thread/02-organisms-02-comments-00-comment-thread.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/02-organisms-02-comments/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/02-organisms-02-comments/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/02-organisms-03-sections-00-latest-posts/02-organisms-03-sections-00-latest-posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/02-organisms-03-sections-00-latest-posts/02-organisms-03-sections-00-latest-posts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/02-organisms-03-sections-01-recent-tweets/02-organisms-03-sections-01-recent-tweets.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/02-organisms-03-sections-01-recent-tweets/02-organisms-03-sections-01-recent-tweets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/02-organisms-03-sections-02-related-posts/02-organisms-03-sections-02-related-posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/02-organisms-03-sections-02-related-posts/02-organisms-03-sections-02-related-posts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/02-organisms-03-sections-03-static-image-gallery/02-organisms-03-sections-03-static-image-gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/02-organisms-03-sections-03-static-image-gallery/02-organisms-03-sections-03-static-image-gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/02-organisms-03-sections/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/02-organisms-03-sections/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/02-organisms-04-swiper-slider-swiper/02-organisms-04-swiper-slider-swiper.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/02-organisms-04-swiper-slider-swiper/02-organisms-04-swiper-slider-swiper.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/02-organisms-04-swiper-slider/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/02-organisms-04-swiper-slider/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/02-organisms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/02-organisms/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/03-templates-00-layouts-00-site/03-templates-00-layouts-00-site.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/03-templates-00-layouts-00-site/03-templates-00-layouts-00-site.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/03-templates-00-layouts-01-page-1col/03-templates-00-layouts-01-page-1col.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/03-templates-00-layouts-01-page-1col/03-templates-00-layouts-01-page-1col.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/03-templates-00-layouts-01-page-2col/03-templates-00-layouts-01-page-2col.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/03-templates-00-layouts-01-page-2col/03-templates-00-layouts-01-page-2col.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/03-templates-00-layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/03-templates-00-layouts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/03-templates-01-homepage/03-templates-01-homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/03-templates-01-homepage/03-templates-01-homepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/03-templates-02-blog/03-templates-02-blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/03-templates-02-blog/03-templates-02-blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/03-templates-03-article-2col/03-templates-03-article-2col.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/03-templates-03-article-2col/03-templates-03-article-2col.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/03-templates-03-article/03-templates-03-article.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/03-templates-03-article/03-templates-03-article.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/03-templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/03-templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/04-pages-00-homepage-emergency/04-pages-00-homepage-emergency.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/04-pages-00-homepage-emergency/04-pages-00-homepage-emergency.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/04-pages-00-homepage/04-pages-00-homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/04-pages-00-homepage/04-pages-00-homepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/04-pages-01-blog/04-pages-01-blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/04-pages-01-blog/04-pages-01-blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/04-pages-02-article/04-pages-02-article.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/04-pages-02-article/04-pages-02-article.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/common-js-JQuery/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/common-js-JQuery/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/common-js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/common-js/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/common-scss-base/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/common-scss-base/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/common-scss-generic/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/common-scss-generic/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/common-scss-objects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/common-scss-objects/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/common-scss-text/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/common-scss-text/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/patterns/common-scss/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/patterns/common-scss/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/styleguide/data/patternlab-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/styleguide/data/patternlab-data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/styleguide/data/patternlab-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/styleguide/data/patternlab-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/styleguide/html/styleguide.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/styleguide/html/styleguide.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper-settings.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper-settings.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/css/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,17 +155,17 @@
           <entry key="gitignore" value="1" />
           <entry key="html" value="8" />
           <entry key="js" value="16" />
-          <entry key="json" value="11" />
+          <entry key="json" value="14" />
           <entry key="map" value="2" />
-          <entry key="md" value="6" />
-          <entry key="php" value="1" />
+          <entry key="md" value="7" />
+          <entry key="php" value="2" />
           <entry key="png" value="1" />
           <entry key="scss" value="93" />
           <entry key="sh" value="1" />
           <entry key="svg" value="2" />
           <entry key="twig" value="67" />
           <entry key="woff" value="2" />
-          <entry key="yml" value="4" />
+          <entry key="yml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -56,24 +174,25 @@
           <entry key="CSS" value="12" />
           <entry key="HTML" value="8" />
           <entry key="Image" value="1" />
-          <entry key="JSON" value="11" />
+          <entry key="JSON" value="14" />
           <entry key="JavaScript" value="16" />
-          <entry key="Markdown" value="6" />
-          <entry key="PHP" value="1" />
+          <entry key="Markdown" value="7" />
+          <entry key="PHP" value="2" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="SCSS" value="93" />
           <entry key="SVG" value="2" />
           <entry key="SourceMap" value="2" />
           <entry key="Twig" value="67" />
-          <entry key="YAML" value="4" />
+          <entry key="YAML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="31" />
-          <entry key="js" value="354" />
-          <entry key="md" value="1063" />
-          <entry key="scss" value="1383" />
+          <entry key="js" value="357" />
+          <entry key="md" value="1393" />
+          <entry key="php" value="2" />
+          <entry key="scss" value="1399" />
           <entry key="sh" value="75" />
           <entry key="twig" value="801" />
         </counts>
@@ -82,9 +201,10 @@
         <counts>
           <entry key="Bash" value="75" />
           <entry key="CSS" value="31" />
-          <entry key="JavaScript" value="354" />
-          <entry key="Markdown" value="1063" />
-          <entry key="SCSS" value="1383" />
+          <entry key="JavaScript" value="357" />
+          <entry key="Markdown" value="1393" />
+          <entry key="PHP" value="2" />
+          <entry key="SCSS" value="1399" />
           <entry key="Twig" value="801" />
         </counts>
       </usages-collector>
@@ -129,28 +249,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper-settings.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/js/scripts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3317">
-              <caret line="1342" column="12" selection-start-line="1342" selection-start-column="6" selection-end-line="1342" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_meta/_01-foot.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="86" selection-start-line="7" selection-start-column="86" selection-end-line="7" selection-end-column="86" />
+            <state relative-caret-position="-478">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -159,16 +261,16 @@
         <entry file="file://$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="354">
-              <caret line="617" column="1" lean-forward="true" selection-start-line="617" selection-start-column="1" selection-end-line="617" selection-end-column="1" />
+              <caret line="617" column="1" selection-start-line="617" selection-start-column="1" selection-end-line="617" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper-settings.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="275" column="3" lean-forward="true" selection-start-line="275" selection-start-column="3" selection-end-line="275" selection-end-column="3" />
+            <state relative-caret-position="-4554">
+              <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -176,26 +278,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+            <state relative-caret-position="342">
+              <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/js/swiper.js">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="-127" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="304">
+                <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/css/style.scss">
+        <entry file="file://$PROJECT_DIR$/config/config.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vendor/pattern-lab/core/src/PatternLab/Console/Commands/ServerCommand.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="88" column="46" selection-start-line="88" selection-start-column="46" selection-end-line="88" selection-end-column="46" />
+            <state relative-caret-position="182">
+              <caret line="65" column="111" selection-start-line="65" selection-start-column="111" selection-end-line="65" selection-end-column="111" />
+              <folding>
+                <element signature="e#7#139#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -223,9 +343,13 @@
       <find>swiper</find>
       <find>inherit</find>
       <find>swiper-slide-content</find>
+      <find>node_modules</find>
+      <find>gulp</find>
+      <find>their is no command line output</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/public/styleguide/html</dir>
+      <dir>$PROJECT_DIR$/vendor</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -268,19 +392,20 @@
         <option value="$PROJECT_DIR$/source/_patterns/02-organisms/03-sections/03-static-image-gallery.scss" />
         <option value="$PROJECT_DIR$/source/css/style.scss" />
         <option value="$PROJECT_DIR$/source/_patterns/00-atoms/04-images/09-static-gallery-image-item.twig" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/source/_patterns/02-organisms/03-sections/03-static-image-gallery.twig" />
         <option value="$PROJECT_DIR$/source/_patterns/00-atoms/09-toggle/toggle.scss" />
         <option value="$PROJECT_DIR$/source/_patterns/00-atoms/09-toggle/toggle.twig" />
         <option value="$PROJECT_DIR$/source/_patterns/00-atoms/09-toggle/toggle.js" />
         <option value="$PROJECT_DIR$/source/_patterns/common-js/jquery-3.3.1.js" />
         <option value="$PROJECT_DIR$/source/_patterns/common-js/JQuery/jquery-3.3.1.js" />
-        <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper.js" />
         <option value="$PROJECT_DIR$/source/_meta/_01-foot.twig" />
         <option value="$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper-settings.js" />
         <option value="$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper.twig" />
         <option value="$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper-settings.scss" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/vendor/pattern-lab/core/src/PatternLab/Console/Commands/ServerCommand.php" />
       </list>
     </option>
   </component>
@@ -292,8 +417,12 @@
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
       <path value="$PROJECT_DIR$/vendor/pattern-lab/styleguidekit-assets-default/package.json" />
     </packageJsonPaths>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -341,136 +470,58 @@
             <path>
               <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
               <item name="cyprus" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="patternlab-components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="styleguide" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="styleguide" type="462c0819:PsiDirectoryNode" />
-              <item name="bower_components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_meta" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="00-atoms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="00-atoms" type="462c0819:PsiDirectoryNode" />
-              <item name="04-images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="00-atoms" type="462c0819:PsiDirectoryNode" />
-              <item name="08-media" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="00-atoms" type="462c0819:PsiDirectoryNode" />
-              <item name="09-toggle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="02-organisms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="02-organisms" type="462c0819:PsiDirectoryNode" />
-              <item name="04-swiper-slider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="common-js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_twig-components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
               <item name="cyprus" type="462c0819:PsiDirectoryNode" />
               <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern-lab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern-lab" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern-lab" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern-lab" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PatternLab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern-lab" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PatternLab" type="462c0819:PsiDirectoryNode" />
+              <item name="Console" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern-lab" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PatternLab" type="462c0819:PsiDirectoryNode" />
+              <item name="Console" type="462c0819:PsiDirectoryNode" />
+              <item name="Commands" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -484,6 +535,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -521,7 +573,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42754000" />
+    <option name="totallyTimeSpent" value="45075000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -536,7 +588,7 @@
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.38206786" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2536349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -549,7 +601,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.21605839" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33576643" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -585,27 +637,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/_patterns/common-scss/base/_main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_patterns/00-atoms/02-text/text.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_patterns/00-atoms/02-text/links.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_patterns/common-scss/generic/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
@@ -746,21 +777,6 @@
     <entry file="file://$PROJECT_DIR$/config/patternengines.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-516" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="133">
-            <caret line="7" selection-start-line="7" selection-end-line="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_patterns/00-atoms/09-toggle/toggle.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -820,13 +836,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/js/swiper.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -850,8 +859,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3317">
-          <caret line="1342" column="12" selection-start-line="1342" selection-start-column="6" selection-end-line="1342" selection-end-column="12" />
+        <state relative-caret-position="-478">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -884,14 +893,52 @@
     <entry file="file://$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="354">
-          <caret line="617" column="1" lean-forward="true" selection-start-line="617" selection-start-column="1" selection-end-line="617" selection-end-column="1" />
+          <caret line="617" column="1" selection-start-line="617" selection-start-column="1" selection-end-line="617" selection-end-column="1" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper-settings.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="275" column="3" lean-forward="true" selection-start-line="275" selection-start-column="3" selection-end-line="275" selection-end-column="3" />
+        <state relative-caret-position="-4554">
+          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-127" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="304">
+            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/pattern-lab/core/src/PatternLab/Console/Commands/ServerCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="65" column="111" selection-start-line="65" selection-start-column="111" selection-end-line="65" selection-end-column="111" />
+          <folding>
+            <element signature="e#7#139#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
