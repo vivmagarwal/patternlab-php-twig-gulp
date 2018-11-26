@@ -10,10 +10,7 @@
 
 #### Execution:
 In first terminal tab: `gulp watch`
-In second terminal tab: `php core/console --watch`
-In third terminal tab: 
-`php core/console --generate`
-`php core/console --server`
+In second terminal tab: `php core/console --server --with-watch`
 
 #### Notes :
 All the SCSS files inside `source/_patterns` is imported to `css/style.scss` file. Then our gulp watch (gulp-sass) task compiles it to `css/style.css`. Then patternlabs `php core/console --watch` copies it to `public/css`

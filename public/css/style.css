@@ -1139,6 +1139,14 @@ abbr {
   .text ol ol {
     margin-bottom: 0; }
 
+.class1 {
+  color: orangered;
+  cursor: pointer; }
+
+.class2 {
+  color: #00f;
+  cursor: pointer; }
+
 .site-header {
   background-color: rgba(255, 255, 255, 0.7);
   width: 100%;
@@ -1187,3 +1195,15 @@ abbr {
 
 .site-logo img {
   height: 60px; }
+
+.static-gallery {
+  width: 1150px;
+  margin: 10px auto; }
+  .static-gallery__item {
+    width: 31%;
+    margin: 10px 1%;
+    float: left;
+    max-height: 236px;
+    overflow: hidden; }
+  .static-gallery img {
+    width: 100%; }

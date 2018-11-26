@@ -35,4 +35,3 @@ gulp.task('sass', function () {
 gulp.task('watch', function(){
   gulp.watch('source/_patterns/**/*.scss', ['sass']);
 });
-
