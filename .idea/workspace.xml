@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="7ae4d6cd-b1ad-4d3f-9f82-19353d7f211a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_meta/_01-foot.twig" beforeDir="false" afterPath="$PROJECT_DIR$/source/_meta/_01-foot.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_patterns/00-atoms/09-toggle/toggle.js" beforeDir="false" afterPath="$PROJECT_DIR$/source/_patterns/00-atoms/09-toggle/toggle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_patterns/00-atoms/09-toggle/toggle.twig" beforeDir="false" afterPath="$PROJECT_DIR$/source/_patterns/00-atoms/09-toggle/toggle.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/source/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/scripts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/source/js/scripts.js.map" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,19 +29,21 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="README" value="1" />
+          <entry key="console" value="1" />
           <entry key="css" value="12" />
           <entry key="editorconfig" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="html" value="8" />
-          <entry key="js" value="10" />
+          <entry key="js" value="14" />
           <entry key="json" value="11" />
           <entry key="map" value="1" />
           <entry key="md" value="6" />
+          <entry key="php" value="1" />
           <entry key="png" value="1" />
           <entry key="scss" value="90" />
           <entry key="sh" value="1" />
           <entry key="svg" value="2" />
-          <entry key="twig" value="63" />
+          <entry key="twig" value="65" />
           <entry key="woff" value="2" />
           <entry key="yml" value="4" />
         </counts>
@@ -50,34 +55,35 @@
           <entry key="HTML" value="8" />
           <entry key="Image" value="1" />
           <entry key="JSON" value="11" />
-          <entry key="JavaScript" value="10" />
+          <entry key="JavaScript" value="14" />
           <entry key="Markdown" value="6" />
-          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="PHP" value="1" />
+          <entry key="PLAIN_TEXT" value="6" />
           <entry key="SCSS" value="90" />
           <entry key="SVG" value="2" />
           <entry key="SourceMap" value="1" />
-          <entry key="Twig" value="63" />
+          <entry key="Twig" value="65" />
           <entry key="YAML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="31" />
-          <entry key="js" value="309" />
+          <entry key="js" value="329" />
           <entry key="md" value="1063" />
           <entry key="scss" value="1353" />
           <entry key="sh" value="75" />
-          <entry key="twig" value="736" />
+          <entry key="twig" value="777" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="75" />
           <entry key="CSS" value="31" />
-          <entry key="JavaScript" value="309" />
+          <entry key="JavaScript" value="329" />
           <entry key="Markdown" value="1063" />
           <entry key="SCSS" value="1353" />
-          <entry key="Twig" value="736" />
+          <entry key="Twig" value="777" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.php.composer.actions">
@@ -91,63 +97,90 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gulpfile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="44" column="88" selection-start-line="44" selection-start-column="88" selection-end-line="44" selection-end-column="88" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_patterns/00-atoms/09-toggle/toggle.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="70" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
+            <state relative-caret-position="190">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_meta/_00-head.twig">
+        <entry file="file://$PROJECT_DIR$/source/_meta/_01-foot.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" selection-start-line="7" selection-end-line="8" />
+            <state relative-caret-position="57">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/PatternLab/Installer.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/console">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_patterns/00-atoms/09-toggle/toggle.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="68" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper-settings.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/_meta/_01-foot.twig">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="155">
+              <caret line="37" column="18" lean-forward="true" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_patterns/00-atoms/09-toggle/toggle.scss">
+        <entry file="file://$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            <state relative-caret-position="38">
+              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/js/scripts.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="133">
-                <caret line="7" selection-start-line="7" selection-end-line="7" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/source/_patterns/common-js/JQuery/jquery-3.3.1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10359" lean-forward="true" selection-start-line="10359" selection-end-line="10359" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -170,6 +203,9 @@
       <find>icon-twitter</find>
       <find>atoms-logo</find>
       <find>.js</find>
+      <find>jquery-2</find>
+      <find>jquery.min</find>
+      <find>swiper</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/public/styleguide/html</dir>
@@ -217,11 +253,16 @@
         <option value="$PROJECT_DIR$/source/_patterns/00-atoms/04-images/09-static-gallery-image-item.twig" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/source/_patterns/02-organisms/03-sections/03-static-image-gallery.twig" />
-        <option value="$PROJECT_DIR$/source/_patterns/00-atoms/09-toggle/toggle.twig" />
         <option value="$PROJECT_DIR$/source/_patterns/00-atoms/09-toggle/toggle.scss" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
-        <option value="$PROJECT_DIR$/source/_patterns/00-atoms/09-toggle/toggle.js" />
         <option value="$PROJECT_DIR$/source/_meta/_01-foot.twig" />
+        <option value="$PROJECT_DIR$/source/_patterns/00-atoms/09-toggle/toggle.twig" />
+        <option value="$PROJECT_DIR$/source/_patterns/00-atoms/09-toggle/toggle.js" />
+        <option value="$PROJECT_DIR$/source/_patterns/common-js/jquery-3.3.1.js" />
+        <option value="$PROJECT_DIR$/source/_patterns/common-js/JQuery/jquery-3.3.1.js" />
+        <option value="$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper.twig" />
+        <option value="$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper.js" />
+        <option value="$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper-settings.js" />
       </list>
     </option>
   </component>
@@ -282,13 +323,121 @@
             <path>
               <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
               <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="patternlab-components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="styleguide" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="styleguide" type="462c0819:PsiDirectoryNode" />
+              <item name="bower_components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
               <item name="cyprus" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_meta" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="00-atoms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="02-organisms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="02-organisms" type="462c0819:PsiDirectoryNode" />
+              <item name="04-swiper-slider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="common-js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="common-js" type="462c0819:PsiDirectoryNode" />
+              <item name="JQuery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_twig-components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts.js" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="cyprus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cyprus" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -305,6 +454,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/_patterns/common-js/JQuery" />
+      <recent name="$PROJECT_DIR$/source/_patterns/common-js" />
       <recent name="$PROJECT_DIR$/source/_patterns/00-atoms/02-text" />
       <recent name="$PROJECT_DIR$/source/_patterns/common-scss/text" />
       <recent name="$PROJECT_DIR$/source/_patterns" />
@@ -337,7 +488,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37858000" />
+    <option name="totallyTimeSpent" value="40175000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -401,32 +552,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/_patterns/common-scss/base/_global-classes.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1656" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_patterns/common-scss/base/_lists.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_patterns/common-scss/objects/_main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_patterns/common-scss/text/_text.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_patterns/00-atoms/02-text/01-paragraph.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-286" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_patterns/00-atoms/03-lists/00-unordered.twig">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_patterns/00-atoms/03-lists/01-ordered.twig">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -605,13 +730,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_patterns/00-atoms/09-toggle/toggle.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="59" selection-start-column="59" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/patternengines.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -641,34 +759,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="44" column="88" selection-start-line="44" selection-start-column="88" selection-end-line="44" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_patterns/00-atoms/09-toggle/toggle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="70" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_meta/_00-head.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
+        <state relative-caret-position="76">
           <caret line="8" selection-start-line="7" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_meta/_01-foot.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/PatternLab/Installer.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/console">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/00-atoms/09-toggle/toggle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/common-js/JQuery/jquery-3.3.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10359" lean-forward="true" selection-start-line="10359" selection-end-line="10359" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/00-atoms/09-toggle/toggle.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="68" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper-settings.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="37" column="18" lean-forward="true" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
         </state>
       </provider>
     </entry>

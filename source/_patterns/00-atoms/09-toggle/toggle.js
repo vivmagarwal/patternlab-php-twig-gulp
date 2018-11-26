@@ -3,3 +3,9 @@ function classToggle() {
   this.classList.toggle('class2');
 }
 document.querySelector('#div').addEventListener('click', classToggle);
+
+$(document).ready(function(){
+  $("#toggle-button").click(function(){
+    $("#toggle-me").toggle();
+  });
+});
