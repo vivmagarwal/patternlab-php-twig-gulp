@@ -15,12 +15,15 @@ This setup is designed to keep all related files of a component together
 
 Example:
 
+
+```
 --_patterns
   |--01-molecules
      |--primary-nav.twig
      |--primary-nav.scss
      |--primary-nav.js
      |--primary-nav.json
+```
  
 All the SCSS files inside `source/_patterns` is imported to `css/style.scss` file. Then our gulp watch (gulp-sass) task compiles it to `css/style.css`. Then patternlabs `php core/console --watch` copies it to `public/css`
 
