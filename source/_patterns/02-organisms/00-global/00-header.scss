@@ -1,11 +1,7 @@
 .site-header {
-  //position: absolute;
-  //z-index: 2;
   background-color: rgba(255, 255, 255, 0.7);
   width: 100%;
   height: 80px;
-  display: flex;
-  align-items: center;
 
   &__logo-container {
     margin-right: auto;
@@ -27,7 +23,20 @@
   &__burger-container {
 
   }
+
+  .header-inner-wrapper {
+    overflow: hidden;
+    padding-left: 15px;
+    padding-right: 15px;
+    max-width: 1250px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    height: 80px;
+  }
 }
+
 
 
 // common class, can be used in item. used in most menu's in this site
@@ -48,15 +57,6 @@
       color: $gray-dark;
       text-transform: uppercase;
     }
-}
-
-.main-wrapper {
-  overflow: hidden;
-  padding-left: 15px;
-  padding-right: 15px;
-  max-width: 1250px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .social-list {

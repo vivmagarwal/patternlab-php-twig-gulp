@@ -1,4 +1,3 @@
-/************************************************************SWIPER***************************************************/
 .swiper-slide {
   /*48 is almost full view-port*/
   height: 40vw !important;
@@ -16,7 +15,6 @@
   }
 }
 
-
 @media screen and (max-width: 800px) {
   .swiper-slide {
     /*48 is almost full view-port*/
@@ -30,6 +28,9 @@
     height: 75vw !important;
   }
 }
+
+
+
 
 .swiper-slide-content {
   background-repeat: no-repeat;
@@ -137,33 +138,6 @@
   .swiper-slide .swiper-slide-content div p {
     font-size: 6vw;
   }
-  /*
-  .swiper-slide-content {
-      justify-content: center;
-      align-items: center;
-  }
-
-  .swiper-slide .swiper-slide-content div {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      left: 0;
-  }
-
-
-  .swiper-slide .swiper-slide-content div p {
-      position: initial;
-      width: initial;
-      margin-right: 2vw;
-      margin-top: 0;
-      margin-bottom: 0;
-      margin-left: 0;
-  }
-
-  .swiper-slide .swiper-slide-content div p.latter {
-      left: 0;
-  }
-  */
 }
 
 .swiper-button-caret {
@@ -193,7 +167,6 @@
   }
   */
 }
-/************************************************************SWIPER***************************************************/
 
 .swiper-button-caret.right {
   transform: rotate(-45deg);
