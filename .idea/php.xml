@@ -20,6 +20,8 @@
       <path value="$PROJECT_DIR$/vendor/shudrum/array-finder" />
       <path value="$PROJECT_DIR$/vendor/pattern-lab/core" />
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/pattern-lab/plugin-reload" />
+      <path value="$PROJECT_DIR$/vendor/wrench/wrench" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="5.4.0" />

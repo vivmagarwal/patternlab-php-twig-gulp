@@ -1,0 +1,92 @@
+.table-rewards-dark {
+  width: 100%;
+  border-collapse: collapse;
+  border-style: solid;
+  border-color: white;
+  border-width: 1px 0 0 1px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+  th,
+  td {
+    vertical-align: middle;
+    height: 2.5rem;
+    border-style: solid;
+    border-color: white;
+    border-width: 0 1px 1px 0;
+  }
+
+  thead th {
+     font-size: .6rem;
+     vertical-align: middle;
+
+     @media (min-width: 600px) {
+       font-size: .75rem;
+     }
+
+      @media (min-width: 1000px) {
+        font-size: 1rem;
+      }
+   }
+
+  thead th:nth-of-type(2)  {
+    background-image: linear-gradient(to right, rgb(255, 255, 255) , rgb(212, 212, 212));
+    color: black;
+  }
+
+  thead th:nth-of-type(3)  {
+    background-color: rgb(224, 33, 40);
+    color: black;
+  }
+
+  tbody {
+    font-size: 0.60rem ;
+    word-break: break-word;
+
+    @media (min-width: 600px) {
+      font-size: .75rem;
+    }
+
+    @media (min-width: 1000px) {
+      font-size: .75rem;
+    }
+  }
+
+  tbody th {
+    text-align: left;
+    padding-left: 5%;
+    padding-right: 1%;
+  }
+
+  tbody td {
+    text-align: center;
+    width: 20%;
+  }
+
+  //Zebra effect on body's rows
+  tbody tr:nth-of-type(odd) {
+    color: #fff !important;
+    background-color: #404040;
+  }
+
+  tbody tr:nth-of-type(even) {
+    color: #fff !important;
+    background-color: #999999;
+  }
+
+  tbody tr:last-of-type {
+    height: 6rem;
+    font-size: .5rem;
+    th {
+      vertical-align: top;
+      padding-top:.5rem;
+      border-right: none;
+    }
+    td {
+      vertical-align: top;
+      padding-top:.5rem;
+    }
+  }
+
+}
+

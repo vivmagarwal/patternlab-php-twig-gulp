@@ -294,24 +294,6 @@ input[type="search"]::-webkit-search-decoration {
   border-left: 1px solid #808080;
   color: #808080; }
 
-/*------------------------------------*\
-    $Table
-\*------------------------------------*/
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-  border: 1px solid #808080;
-  width: 100%; }
-
-th {
-  text-align: left;
-  border: 1px solid #808080;
-  padding: 0.2em; }
-
-td {
-  border: 1px solid #808080;
-  padding: 0.2em; }
-
 .animate-fade {
   -webkit-transition: opacity 0.3s ease-out;
   -moz-transition: opacity 0.3s ease-out;
@@ -1145,6 +1127,69 @@ abbr {
     color: #606060;
     font-weight: 700;
     font-size: 15px; }
+
+.table-rewards-dark {
+  width: 100%;
+  border-collapse: collapse;
+  border-style: solid;
+  border-color: white;
+  border-width: 1px 0 0 1px;
+  padding-top: 20px;
+  padding-bottom: 20px; }
+  .table-rewards-dark th,
+  .table-rewards-dark td {
+    vertical-align: middle;
+    height: 2.5rem;
+    border-style: solid;
+    border-color: white;
+    border-width: 0 1px 1px 0; }
+  .table-rewards-dark thead th {
+    font-size: .6rem;
+    vertical-align: middle; }
+    @media (min-width: 600px) {
+      .table-rewards-dark thead th {
+        font-size: .75rem; } }
+    @media (min-width: 1000px) {
+      .table-rewards-dark thead th {
+        font-size: 1rem; } }
+  .table-rewards-dark thead th:nth-of-type(2) {
+    background-image: linear-gradient(to right, white, #d4d4d4);
+    color: black; }
+  .table-rewards-dark thead th:nth-of-type(3) {
+    background-color: #e02128;
+    color: black; }
+  .table-rewards-dark tbody {
+    font-size: 0.60rem;
+    word-break: break-word; }
+    @media (min-width: 600px) {
+      .table-rewards-dark tbody {
+        font-size: .75rem; } }
+    @media (min-width: 1000px) {
+      .table-rewards-dark tbody {
+        font-size: .75rem; } }
+  .table-rewards-dark tbody th {
+    text-align: left;
+    padding-left: 5%;
+    padding-right: 1%; }
+  .table-rewards-dark tbody td {
+    text-align: center;
+    width: 20%; }
+  .table-rewards-dark tbody tr:nth-of-type(odd) {
+    color: #fff !important;
+    background-color: #404040; }
+  .table-rewards-dark tbody tr:nth-of-type(even) {
+    color: #fff !important;
+    background-color: #999999; }
+  .table-rewards-dark tbody tr:last-of-type {
+    height: 6rem;
+    font-size: .5rem; }
+    .table-rewards-dark tbody tr:last-of-type th {
+      vertical-align: top;
+      padding-top: .5rem;
+      border-right: none; }
+    .table-rewards-dark tbody tr:last-of-type td {
+      vertical-align: top;
+      padding-top: .5rem; }
 
 .site-header {
   background-color: rgba(255, 255, 255, 0.7);
