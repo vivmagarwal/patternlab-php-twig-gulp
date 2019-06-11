@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ae4d6cd-b1ad-4d3f-9f82-19353d7f211a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <executablePath>composer</executablePath>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-766932508">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="README" value="1" />
+          <entry key="console" value="1" />
+          <entry key="css" value="12" />
+          <entry key="editorconfig" value="1" />
+          <entry key="gitignore" value="3" />
+          <entry key="html" value="8" />
+          <entry key="js" value="18" />
+          <entry key="json" value="14" />
+          <entry key="map" value="2" />
+          <entry key="md" value="7" />
+          <entry key="php" value="2" />
+          <entry key="png" value="1" />
+          <entry key="scss" value="100" />
+          <entry key="sh" value="1" />
+          <entry key="svg" value="2" />
+          <entry key="twig" value="73" />
+          <entry key="woff" value="2" />
+          <entry key="yml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Bash" value="1" />
+          <entry key="CSS" value="12" />
+          <entry key="HTML" value="8" />
+          <entry key="Image" value="1" />
+          <entry key="JSON" value="14" />
+          <entry key="JavaScript" value="18" />
+          <entry key="Markdown" value="7" />
+          <entry key="PHP" value="2" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="SCSS" value="100" />
+          <entry key="SVG" value="2" />
+          <entry key="SourceMap" value="2" />
+          <entry key="Twig" value="73" />
+          <entry key="YAML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="31" />
+          <entry key="gitignore" value="24" />
+          <entry key="js" value="359" />
+          <entry key="json" value="18" />
+          <entry key="md" value="1403" />
+          <entry key="php" value="2" />
+          <entry key="scss" value="1544" />
+          <entry key="sh" value="75" />
+          <entry key="twig" value="954" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Bash" value="75" />
+          <entry key="CSS" value="31" />
+          <entry key="JSON" value="18" />
+          <entry key="JavaScript" value="359" />
+          <entry key="Markdown" value="1403" />
+          <entry key="PHP" value="2" />
+          <entry key="PLAIN_TEXT" value="24" />
+          <entry key="SCSS" value="1544" />
+          <entry key="Twig" value="954" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.composer.actions">
+        <counts>
+          <entry key="install_from_ComposerEditorNotificationPanel" value="1" />
+          <entry key="updateAll_from_ComposerEditorNotificationPanel" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1409726040">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="console" value="2" />
+          <entry key="css" value="10" />
+          <entry key="gitkeep" value="1" />
+          <entry key="js" value="2" />
+          <entry key="json" value="7" />
+          <entry key="md" value="3" />
+          <entry key="php" value="2" />
+          <entry key="scss" value="9" />
+          <entry key="sh" value="1" />
+          <entry key="twig" value="4" />
+          <entry key="yml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Bash" value="1" />
+          <entry key="CSS" value="10" />
+          <entry key="JSON" value="7" />
+          <entry key="JavaScript" value="2" />
+          <entry key="Markdown" value="3" />
+          <entry key="PHP" value="2" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="SCSS" value="9" />
+          <entry key="Twig" value="4" />
+          <entry key="YAML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="39" />
+          <entry key="json" value="4" />
+          <entry key="md" value="441" />
+          <entry key="scss" value="147" />
+          <entry key="twig" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="4" />
+          <entry key="JavaScript" value="39" />
+          <entry key="Markdown" value="441" />
+          <entry key="SCSS" value="147" />
+          <entry key="Twig" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_patterns/00-atoms/01-global/00-colors.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="1072" column="17" selection-start-line="1072" selection-start-column="17" selection-end-line="1072" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_patterns/00-atoms/01-global/00-colors.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="1066" column="14" selection-start-line="1066" selection-start-column="14" selection-end-line="1066" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>font</find>
+      <find>$font</find>
+      <find>background-color</find>
+      <find>styleguide.mi</find>
+      <find>Comic</find>
+      <find>font-family</find>
+      <find>clearfix</find>
+      <find>mixin</find>
+      <find>.lc</find>
+      <find>logo.png</find>
+      <find>social-list</find>
+      <find>icon-twitter</find>
+      <find>atoms-logo</find>
+      <find>.js</find>
+      <find>jquery-2</find>
+      <find>jquery.min</find>
+      <find>swiper</find>
+      <find>inherit</find>
+      <find>swiper-slide-content</find>
+      <find>node_modules</find>
+      <find>gulp</find>
+      <find>their is no command line output</find>
+      <find>.main-wrapper</find>
+      <find>cyprus</find>
+      <find>color: green</find>
+      <find>gree</find>
+      <find>green</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/public/styleguide/html</dir>
+      <dir>$PROJECT_DIR$/vendor</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/source/css/scss/base/_text.scss" />
+        <option value="$PROJECT_DIR$/source/css/scss/generic/_variables.scss" />
+        <option value="$PROJECT_DIR$/source/css/scss/objects/_text.scss" />
+        <option value="$PROJECT_DIR$/gulp-tasks/_config.js" />
+        <option value="$PROJECT_DIR$/source/_patterns/style.scss" />
+        <option value="$PROJECT_DIR$/public/css/style.css" />
+        <option value="$PROJECT_DIR$/source/css/style.css" />
+        <option value="$PROJECT_DIR$/source/_patterns/common-scss/base/_text.scss" />
+        <option value="$PROJECT_DIR$/source/_patterns/common-scss/base/_headings.scss" />
+        <option value="$PROJECT_DIR$/deploy.sh" />
+        <option value="$PROJECT_DIR$/source/_patterns/00-atoms/01-global/01-fonts.twig" />
+        <option value="$PROJECT_DIR$/source/_patterns/00-atoms/02-text/01-paragraph.twig" />
+        <option value="$PROJECT_DIR$/source/_patterns/common-scss/text/_text.scss" />
+        <option value="$PROJECT_DIR$/source/_patterns/00-atoms/02-text/_text.scss" />
+        <option value="$PROJECT_DIR$/source/_patterns/common-scss/base/_main.scss" />
+        <option value="$PROJECT_DIR$/source/_patterns/00-atoms/02-text/links.scss" />
+        <option value="$PROJECT_DIR$/source/_patterns/common-scss/generic/_mixins.scss" />
+        <option value="$PROJECT_DIR$/source/_patterns/common-scss/generic/_variables.scss" />
+        <option value="$PROJECT_DIR$/source/_patterns/00-atoms/04-images/00-logo.twig" />
+        <option value="$PROJECT_DIR$/source/_patterns/01-molecules/05-navigation/00-primary-nav.twig" />
+        <option value="$PROJECT_DIR$/source/_patterns/01-molecules/05-navigation/05-lang-selector.twig" />
+        <option value="$PROJECT_DIR$/source/_patterns/00-atoms/04-images/08-social-tags.twig" />
+        <option value="$PROJECT_DIR$/source/_patterns/02-organisms/03-sections/03-static-image-gallery.scss" />
+        <option value="$PROJECT_DIR$/source/_patterns/00-atoms/04-images/09-static-gallery-image-item.twig" />
+        <option value="$PROJECT_DIR$/source/_patterns/02-organisms/03-sections/03-static-image-gallery.twig" />
+        <option value="$PROJECT_DIR$/source/_patterns/00-atoms/09-toggle/toggle.twig" />
+        <option value="$PROJECT_DIR$/source/_patterns/common-js/jquery-3.3.1.js" />
+        <option value="$PROJECT_DIR$/source/_patterns/common-js/JQuery/jquery-3.3.1.js" />
+        <option value="$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper.js" />
+        <option value="$PROJECT_DIR$/source/_meta/_01-foot.twig" />
+        <option value="$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper-settings.js" />
+        <option value="$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper.twig" />
+        <option value="$PROJECT_DIR$/vendor/pattern-lab/core/src/PatternLab/Console/Commands/ServerCommand.php" />
+        <option value="$PROJECT_DIR$/source/_patterns/00-atoms/09-toggle/toggle.js" />
+        <option value="$PROJECT_DIR$/source/_patterns/00-atoms/09-toggle/toggle.scss" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper-settings.scss" />
+        <option value="$PROJECT_DIR$/source/_patterns/02-organisms/05-header-with-slider/header-with-slider.twig" />
+        <option value="$PROJECT_DIR$/source/_patterns/02-organisms/00-global/00-header.twig" />
+        <option value="$PROJECT_DIR$/source/_patterns/02-organisms/05-header-with-slider/header-with-slider.scss" />
+        <option value="$PROJECT_DIR$/source/_patterns/02-organisms/00-global/00-header.scss" />
+        <option value="$PROJECT_DIR$/source/_patterns/00-atoms/09-links/01-cta-link.twig" />
+        <option value="$PROJECT_DIR$/source/_patterns/00-atoms/09-links/01-cta-link.scss" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/source/_patterns/00-atoms/02-text/headings.scss" />
+        <option value="$PROJECT_DIR$/source/css/style.scss" />
+        <option value="$PROJECT_DIR$/source/_patterns/00-atoms/01-global/_00-colors.scss" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/source/_patterns/00-atoms/01-global/00-colors.scss" />
+        <option value="$PROJECT_DIR$/source/_patterns/00-atoms/01-global/00-colors.twig" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/michelf/php-markdown" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/kevinlebrun/colors.php" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/pattern-lab/patternengine-twig" />
+      <path value="$PROJECT_DIR$/vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/vendor/pattern-lab/styleguidekit-twig-default" />
+      <path value="$PROJECT_DIR$/vendor/pattern-lab/styleguidekit-assets-default" />
+      <path value="$PROJECT_DIR$/vendor/alchemy/zippy" />
+      <path value="$PROJECT_DIR$/vendor/shudrum/array-finder" />
+      <path value="$PROJECT_DIR$/vendor/pattern-lab/core" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/pattern-lab/plugin-reload" />
+      <path value="$PROJECT_DIR$/vendor/wrench/wrench" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="32" />
+    <option name="y" value="24" />
+    <option name="width" value="1395" />
+    <option name="height" value="864" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="patternlab-php-twig-gulp-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="patternlab-php-twig-gulp-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="patternlab-php-twig-gulp-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="patternlab-php-twig-gulp-master" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="patternlab-php-twig-gulp-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="patternlab-php-twig-gulp-master" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="patternlab-php-twig-gulp-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="patternlab-php-twig-gulp-master" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="patternlab-php-twig-gulp-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="patternlab-php-twig-gulp-master" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="patternlab-php-twig-gulp-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="patternlab-php-twig-gulp-master" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="00-atoms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="patternlab-php-twig-gulp-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="patternlab-php-twig-gulp-master" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="00-atoms" type="462c0819:PsiDirectoryNode" />
+              <item name="01-global" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="patternlab-php-twig-gulp-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="patternlab-php-twig-gulp-master" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="patternlab-php-twig-gulp-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="patternlab-php-twig-gulp-master" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="gulp&#9;FILE&#9;file:///Users/vivek/Documents/projects/styleguides/cyprus/gulpfile.js&#10;gu&#9;FILE&#9;file:///Users/vivek/Documents/projects/styleguides/cyprus/gulpfile.js&#10;local &#9;ACTION&#9;LocalHistory&#10;font&#9;null&#9;null&#10;03-templates&#9;FILE&#9;file:///Users/vivek/Documents/projects/styleguides/cyprus/public/patterns/03-templates-00-layouts-01-page-1col/03-templates-00-layouts-01-page-1col.markup-only.html" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/scss" />
+      <recent name="$PROJECT_DIR$/source/js" />
+      <recent name="$PROJECT_DIR$/source/_patterns/common-js/JQuery" />
+      <recent name="$PROJECT_DIR$/source/_patterns/common-js" />
+      <recent name="$PROJECT_DIR$/source/_patterns/00-atoms/02-text" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/patternlab-php-twig-gulp-master/public/index.html">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ae4d6cd-b1ad-4d3f-9f82-19353d7f211a" name="Default Changelist" comment="" />
+      <created>1542977014129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542977014129</updated>
+      <workItem from="1542977015354" duration="36633000" />
+      <workItem from="1560254077634" duration="2373000" />
+      <workItem from="1560259239077" duration="7897000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="62532000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="32" y="24" width="1395" height="864" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20103474" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329927" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" weight="0.329927" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33937824" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20103474" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329927" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" weight="0.329927" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33937824" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/source/_patterns/01-molecules/02-blocks/04-block-headline.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/01-molecules/02-blocks/05-block-inset.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/01-molecules/06-components/01-accordion.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/01-molecules/06-components/02-single-comment.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/common-scss/base/_animation.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/02-organisms/03-sections/03-static-image-gallery.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_meta/_00-head.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/jquery-3.3.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10359" selection-start-line="10359" selection-end-line="10359" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/00-atoms/09-toggle/toggle.twig" />
+    <entry file="file://$PROJECT_DIR$/source/js/scripts.js.map">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/swiper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_meta/_01-foot.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="86" selection-start-line="7" selection-start-column="86" selection-end-line="7" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="18" column="90" selection-start-line="18" selection-start-column="90" selection-end-line="18" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/pattern-lab/core/src/PatternLab/Console/Commands/ServerCommand.php" />
+    <entry file="file://$PROJECT_DIR$/source/_patterns/00-atoms/04-images/00-logo.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/00-atoms/09-toggle/toggle.js" />
+    <entry file="file://$PROJECT_DIR$/source/_patterns/00-atoms/09-toggle/toggle.scss" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="981">
+          <caret line="617" column="1" selection-start-line="617" selection-start-column="1" selection-end-line="617" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper-settings.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/02-organisms/04-swiper-slider/swiper-settings.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/common-scss/objects/_nav.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/02-organisms/05-header-with-slider/header-with-slider.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/01-molecules/05-navigation/00-primary-nav.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/02-organisms/00-global/00-header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/00-atoms/09-links/01-cta-link.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/00-atoms/09-links/01-cta-link.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/02-organisms/00-global/00-header.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/02-organisms/05-header-with-slider/header-with-slider.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/PatternLab/Installer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2461" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/00-atoms/02-text/00-headings.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/pattern-scaffolding.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/00-atoms/02-text/headings.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/server/router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-319" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/console">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="58">
+            <caret line="51" selection-start-line="51" selection-end-line="51" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/css/pattern-scaffolding.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/patternengines.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/listeners.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" lean-forward="true" selection-start-column="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/scss/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="89" column="27" selection-start-line="89" selection-start-column="27" selection-end-line="89" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="1072" column="17" selection-start-line="1072" selection-start-column="17" selection-end-line="1072" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="1066" column="14" selection-start-line="1066" selection-start-column="14" selection-end-line="1066" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/00-atoms/01-global/00-colors.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_patterns/00-atoms/01-global/00-colors.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

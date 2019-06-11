@@ -1,0 +1,30 @@
+{
+  "name": "cyprus",
+  "version": "1.0.0",
+  "description": "Patternlab with SASS and JS enabled",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drupalastic/patternlab-php-twig-gulp.git"
+  },
+  "author": "Vivek Agarwal (Drupalastic)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drupalastic/patternlab-php-twig-gulp/issues"
+  },
+  "homepage": "https://github.com/drupalastic/patternlab-php-twig-gulp#readme",
+  "dependencies": {
+    "@babel/core": "^7.1.6",
+    "gulp": "latest",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-sass-glob": "^1.0.9",
+    "gulp-sourcemaps": "^2.6.4",
+    "fstream": ">=1.0.12",
+    "tar": ">=2.2.2"
+  }
+}

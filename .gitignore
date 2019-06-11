@@ -1,0 +1,6 @@
+.DS_Store
+export/*
+config/*
+source/styleguide/*
+vendor/*
+node_modules/*

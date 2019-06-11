@@ -1,0 +1,20 @@
+.static-gallery {
+  width: 1150px;
+  margin: 10px auto;
+
+  &__item {
+    width: 31%;
+    margin: 10px 1%;
+    float: left;
+    max-height: 236px;
+    overflow: hidden;
+  }
+
+  img {
+    width: 100%;
+  }
+
+
+
+}
+
