@@ -25,6 +25,6 @@
     "gulp-sass-glob": "^1.0.9",
     "gulp-sourcemaps": "^2.6.4",
     "fstream": ">=1.0.12",
-    "tar": ">=2.2.2"
+    "tar": ">=4.4.15"
   }
 }
